@@ -1,0 +1,17 @@
+{
+  "name": "util-function",
+  "version": "0.0.1",
+  "description": "一些常用的js工具函数",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tool",
+    "js",
+    "function",
+    "util"
+  ],
+  "author": "zz",
+  "license": "ISC"
+}
